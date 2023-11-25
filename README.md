@@ -17,4 +17,4 @@ Your coding companion for error-free development! Seamlessly catch and fix synta
 
 ## Want to Contribute?
 
-Syntax Buddy welcomes contributions from the coding community! Whether you're passionate about improving error detection algorithms, enhancing the user interface, or adding support for new programming languages, your contributions are valued. Check out our [Contribution Guidelines](link-to-contributing-guidelines) to get started. Join us in making Syntax Buddy an even more powerful tool for developers worldwide. Let's collaborate and sculpt the future of coding together!
+Syntax Buddy welcomes contributions from the coding community! Whether you're passionate about improving error detection algorithms, enhancing the user interface, or adding support for new programming languages, your contributions are valued. Join us in making Syntax Buddy an even more powerful tool for developers worldwide. Let's collaborate and sculpt the future of coding together!
